@@ -75,3 +75,7 @@ body {
  .col-md-3 {
      width:50%;
  }
+
+ .col-md-3:hover {
+    width:100%;
+}
